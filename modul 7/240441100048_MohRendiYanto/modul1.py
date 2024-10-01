@@ -5,32 +5,32 @@
 # _kelas=10
 # print(nama, _kelas)
 
-# aritmatika
+# # aritmatika
 # a=20
 # b=10
-# penjumlahan
+# # penjumlahan
 # c=a+b
 # print ("hasil penjumlahan a ditambahkan b adalah", a+b)
 
-# pengurangan
+# # pengurangan
 # c=a-b
 # print("hasil pengurangan a dikurangi b adalah:", a-b)
 
-# perkalian 
+# # perkalian 
 # a= 22
 # b= 21
 # c= a*b
-# print("hasil dari perkalian a dikali b adalah:". c)
+# print("hasil dari perkalian a dikali b adalah:", c)
 
-# pembagian
+# # pembagian
 # a= 45
 # b= 5
 # c= a/b
 # print(" hasil dari pembagian a dibagi b adalah:", c)
 
-# modulus
+# # modulus
 # print(7%3)
 
-#perpangkatan
+# # perpangkatan
 # print(10**3)
 
