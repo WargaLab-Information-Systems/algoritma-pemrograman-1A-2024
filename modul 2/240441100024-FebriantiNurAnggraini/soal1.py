@@ -1,8 +1,8 @@
 nama = str(input("nama saya adalah :"))
 nim = str(input("nim saya adalah :"))
 
-# nilai_UTS = int(input("masukkan nilai UTS :"))
-# nilai_UAS = int(input("masukkan nilai UAS :"))
+nilai_UTS = int(input("masukkan nilai UTS :"))
+nilai_UAS = int(input("masukkan nilai UAS :"))
 
 #menghitung rata-rata nilai
 rata_rata = (nilai_UTS + nilai_UAS) / 2
