@@ -1,0 +1,60 @@
+#perintah if
+# kota = "Nganjuk"
+# asal = input ("masukkan asal kamu =")
+# if asal ==  kota:
+#     print("Asal saya dari", Asal )
+
+# perintah if-else
+# Angka = int (input("masukkan angka lebih dari 5 ="))
+# if Angka <= 5:
+#     print("Angka kurang dari 5")
+# else:
+#     print ("Angka adalah 5 atau lebih")
+
+#perintah if-elif-else
+# Umur = int (input("masukkam umur anda ="))
+# if umur <= 21:
+#     print("Anda belum dewasa")
+# elif umur <= 100:
+#     print("Anda sudah dewasa")
+# elif umur == 100:
+#     print("Anda telah tua banget")
+# else:
+#     print("Anda alien")
+
+#perintah if bersarang (Nested if)
+# Umur = int (input("masukkam umur anda ="))
+#  if umur <= 21:
+#      print("Anda remaja")
+#      if umur <= 45:
+#         print("Anda dewasa")
+#     elif umur <= 49:
+#         print("Anda hampir paruhbaya")
+#  elif umur <= 100:
+#     print("Anda sudah tua")
+# else:
+#     print("Anda alien")
+
+
+
+
+#perintah if dinamis
+# angka = int(input("masukkan angka"))
+# if angka % 2 == 0:
+#     print(f"bilangan {angka} adalah bilangan genap")
+# else :
+#     print(f"bilangan {angka} adalah bilangan ganjil")
+
+
+# Ternary if else
+# waktu = 20.15
+# print("selamat malam") if waktu >18 else print("selamat pagi/sore")
+
+# A = "A"
+# B = 10
+# c = 20
+# if (A == 10 and B == or C == 20):
+#     print("ini yang keluar A")
+
+# elif (A == "A" or B == 20 and C == 20):
+#     print("ini yang keluar B")
