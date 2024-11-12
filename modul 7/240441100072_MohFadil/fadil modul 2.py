@@ -37,11 +37,14 @@
 # else:
 #     print("anda immortal")
 
-angka = int (input("masukan angka"))
-if angka % 2 == 0 :
-    print (f"bilangan {angka} bukan bilangan genap")
-else :
-    print (f"bilangan {angka} adalah bilangan ganjil")
+
+
+# angka = int (input("masukan angka"))
+# if angka % 2 == 0 :
+#     print (f"bilangan {angka} bukan bilangan genap")
+# else :
+#     print (f"bilangan {angka} adalah bilangan ganjil")
+
 
 #ternary if else
 # waktu = 20
