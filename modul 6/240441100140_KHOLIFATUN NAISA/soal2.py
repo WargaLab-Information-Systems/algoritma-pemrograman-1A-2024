@@ -44,10 +44,8 @@ def edit():
         print("2. Tanggal Peminjaman")
         pilihan = input("Masukkan nomor pilihan: ")
         if pilihan == "1":
-            id_peminjam = input("Masukkan ID peminjam baru: ")
-        elif pilihan == "2":
             judul_buku = input("Masukkan judul buku baru: ")
-        elif pilihan == "3":
+        elif pilihan == "2":
             tanggal = input("Masukkan tanggal peminjaman baru: ")
         else:
             print("Pilihan tidak valid.")
@@ -73,7 +71,7 @@ def menu():
     print("3. Tambah Data buku")
     print("4. Edit Data peminjaman")
     print("5. Hapus Data peminjaman")
-    kode = input("Masukkan nomor: ")
+    kode  = input("Masukkan nomor: ")
     if kode == "1":
         peminjaman()
     elif kode == "2":
