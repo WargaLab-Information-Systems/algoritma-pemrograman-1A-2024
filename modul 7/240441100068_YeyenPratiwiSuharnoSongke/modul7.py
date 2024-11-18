@@ -77,13 +77,23 @@
 
 # soal no 2
 
-basket = {'ana','cina','siska','putri'}
-Renang = {'sasa','ana','ciko'}
+siswa_basket = {"Ali", "Budi", "Citra", "Dewi", "Eka"}
+siswa_renang = {"Budi", "Dewi", "Fahri", "Gita", "Hana"}
 
-yang_mengikuti_keduanya= basket | Renang
+siswa_kedua_klub = siswa_basket & siswa_renang
+print("Siswa yang mengikuti kedua klub:", siswa_kedua_klub)
 
-basket.union(Renang)
-print(basket.union(Renang))
+siswa_hanya_basket = siswa_basket - siswa_renang
+siswa_hanya_renang = siswa_renang - siswa_basket
+print("Siswa yang hanya mengikuti klub Basket:", siswa_hanya_basket)
+print("Siswa yang hanya mengikuti klub Renang:", siswa_hanya_renang)
+
+siswa_unik = siswa_basket | siswa_renang
+print("Siswa yang mengikuti setidaknya satu klub:", siswa_unik)
+
+
+jumlah_siswa_unik = len(siswa_unik)
+print("Jumlah siswa unik yang mengikuti setidaknya satu klub:", jumlah_siswa_unik)
 
 
 
