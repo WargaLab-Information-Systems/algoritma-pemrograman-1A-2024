@@ -39,13 +39,6 @@
 
 
 
-# angka = int (input("masukan angka"))
-# if angka % 2 == 0 :
-#     print (f"bilangan {angka} bukan bilangan genap")
-# else :
-#     print (f"bilangan {angka} adalah bilangan ganjil")
-
-
 #ternary if else
 # waktu = 20
 # print("selamat malam") if waktu >18 else print("selamat pagi/sore")
