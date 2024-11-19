@@ -3,23 +3,23 @@ nama = "Anisa"
 _kelas = 10
 print(nama,_kelas)
 
-aritmatika 
+#aritmatika 
 a=20
 b=10
-penjumlahan
+#penjumlahan
 c=a+b
 print("hasil penjumlahan a ditambah b adalah:",a+b)
 
-pengurangan 
+#pengurangan 
 c=a-b
 print("hasil pengurangan a dikurangi b adalah:",c)
 
-perkalian 
+#perkalian 
 d= 12
 e= 11
 print("hasil perkaliannya:",d*e)
 
-pembagian
+#pembagian
 f = 20
 g = 5
 print("hasil pembagiannya:",f/g)
@@ -27,8 +27,8 @@ print("hasil pembagiannya:",f/g)
 print(7/3)
 print(7//3)
 
-modulus
+#modulus
 print(7%3)
 
-perpangkatan
+#perpangkatan
 print(10**3)
