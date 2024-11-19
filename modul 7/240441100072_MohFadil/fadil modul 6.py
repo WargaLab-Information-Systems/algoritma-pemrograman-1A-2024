@@ -25,10 +25,10 @@
 #     print(i)
 
 #TUPLE
-Mobil =("alphard","toyota","L300")#0'1'2'3.....
-Tahun =(200,2001,2025)
-# print(Mobil[1])
-print(Mobil[2],"tahun =",Tahun[2])
+# Mobil =("alphard","toyota","L300")#0'1'2'3.....
+# Tahun =(200,2001,2025)
+# # print(Mobil[1])
+# print(Mobil[2],"tahun =",Tahun[2])
 
 
 # Mobilanyar = Mobil + ('Volkswegan',)
