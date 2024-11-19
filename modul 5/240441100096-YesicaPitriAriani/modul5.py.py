@@ -1,4 +1,4 @@
-# nomor 1
+
 #     return jumlah_diskon, total_setelah_diskon 
  
 # jenis_keanggotaan = str(input("punya kartu anggota? (punya/tidak)")) 
