@@ -9,7 +9,7 @@ def tambah_karyawan(nip, nama, alamat, departemen, jabatan):
         "alamat": alamat,
         "departemen": departemen,
         "jabatan": jabatan}
-    data_karyawan.append(karyawan)
+    data_karyawan.append(karyawan) # append untuk menambahkan elemen baru ke dalam list
 
 # Fungsi untuk menampilkan seluruh data karyawan
 def tampilkan_karyawan():
@@ -28,7 +28,6 @@ def cari_karyawan(atribut, nilai):
             hasil_cari.append(k)
     return hasil_cari
 
-# Input data karyawan (minimal 5)
 for i in range(5):
     print(f"\nMasukkan data karyawan ke-{i + 1}")
     nip = input("NIP: ")
